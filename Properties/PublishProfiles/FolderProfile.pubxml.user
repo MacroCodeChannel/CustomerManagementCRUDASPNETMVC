@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Software Projects\.NET Core Projects\CustomerManagementSystem\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-03-02T17:31:49.4883045Z;True|2024-03-02T20:28:15.6381050+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=ENGINEER%3bDatabase=Customers%3bTrustServerCertificate=true%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
